@@ -1,6 +1,6 @@
 # LLM Practical Portfolio
 
-**Module:** PUSL 3205 – Large Language Models and Generative AI
+**Module:** PUSL3205 – Large Language Models and Generative AI
 
 ## Overview
 
@@ -11,11 +11,11 @@ This repository contains my individual practical laboratory activities for the L
 | Lab | Laboratory Title | Status |
 |---|---|---|
 | [Lab 01](Lab01/README.md) | Sentiment Analysis Using Traditional Machine Learning | Completed |
-| Lab 02 | LLMs in Everyday Life | Not Started |
+| [Lab 02](Lab02/README.md) | AI in Everyday Challenges | Completed |
 | Lab 03 | Tiny Transformer | Not Started |
 | Lab 04 | Fine-Tuning | Not Started |
 | Lab 05 | Retrieval-Augmented Generation (RAG) | Not Started |
-| Lab 06 | AI Agents | Not Started |
+| Lab 06 | AI Agents | Not Started |              
 
 ## Final Reflection
 
