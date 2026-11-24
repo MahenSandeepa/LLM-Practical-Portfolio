@@ -2,7 +2,7 @@
 
 ## 1. Laboratory Session
 
-**Module:** PUSL 3205 – Large Language Models and Generative AI
+**Module:** PUSL3205 – Large Language Models and Generative AI
 
 ## 2. Objective
 
